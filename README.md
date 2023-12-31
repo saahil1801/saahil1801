@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saahil1801&label=Profile%20views&color=0e75b6&style=flat" alt="saahil1801" /> </p>
 
-- 🌱 I’m currently learning **AI Branches like NLP , Deep learning and LLM**
+- 🌱 I’m currently learning *AI like NLP , Deep learning and LLM**
 
 - 💬 Ask me about **AI related stuff**
 
